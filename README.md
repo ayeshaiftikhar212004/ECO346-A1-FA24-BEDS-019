@@ -68,6 +68,3 @@ Annual earnings vary considerably across earners in Urban Sindh. The weighted me
 
 ## Q3: Interpretation and limitation
 Weighted mean earnings generally rise across age bands, although the pattern is not perfectly steady. The highest weighted mean is Rs 542,400 for ages 55–59. The mean for ages 45–49 is higher than for ages 25–29. However, this is a cross-sectional survey, so it cannot show how the earnings of the same individuals change as they grow older.
-
-## Q5: Python comparison
-Python independently calculates the weighted mean earnings for each five-year age band using the same sample and household weights as R. The results should be compared after rounding to the nearest rupee. Python and R can differ in plotting defaults, so axis limits, labels, and scales were explicitly set for the comparison figure.
