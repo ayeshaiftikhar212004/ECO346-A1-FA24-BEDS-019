@@ -36,7 +36,7 @@ Figure: `figures/q2_histogram.svg`
 | 45–49 | 250 | 431697 |
 | 50–54 | 212 | 530773 |
 | 55–59 | 157 | 542400 |
-| 60–64 | 72 | 414263 |
+| 60–64 | 72 | 414262 |
 
 The highest weighted mean is in the 55–59 age band (Rs 542,400).
 
