@@ -50,9 +50,14 @@ The default scatter plot is saved as `figures/default.svg`.
 The redesigned age graph uses transparency to reduce overplotting, a logarithmic earnings axis to show a wide range, and weighted age-band means to reveal the pattern across ages. The redesign makes the main trend easier to see but hides some of the raw-point detail shown in the default plot.
 
 ## Q5: Python comparison
-The weighted means in Python match the R results to the nearest rupee.
+
+The weighted mean earnings for ages 25–29 are Rs 303154 in R and Rs 303154 in Python. The age-band means match to the nearest rupee.
+
 Python table: `figures/age_band_python.csv`
+
 Python graph: `figures/q3_python.svg`
+
+Matplotlib and ggplot2 have different default axis formatting. I explicitly set the logarithmic earnings scale, axis limits, age ticks, and labels in Python to make the graph comparable to R.
 
 ## Reproduction
 Run the R scripts in `scripts/` to reproduce the figures. Python was used to independently calculate the age-band means and draw the comparison figure.
