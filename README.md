@@ -16,11 +16,14 @@ Missing ages: 0
 Missing annual earnings: 0
 
 ## Q2: Earnings distribution
+
+- Number of earners: 2644
 - Weighted median: Rs 264,000
 - Unweighted median: Rs 252,000
 - Weighted 10th percentile: Rs 120,000
 - Weighted 90th percentile: Rs 696,000
 - P90/P10 ratio: 5.80
+- Observations outside the displayed histogram range: 2
 
 Figure: `figures/q2_histogram.svg`
 
